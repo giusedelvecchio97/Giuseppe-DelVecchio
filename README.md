@@ -19,7 +19,8 @@ Attualmente frequento il corso di laurea triennale in **Informatica e Tecnologie
 
 💻 **Competenze Tecniche**
 
-- **Linguaggi di Programmazione:** Java, Python, C, SQL
+- **Linguaggi di Programmazione:** Java, Python, C
+- **Linguaggi di dominio e DBMS:** Sql, MYSQL
 - **Sviluppo Mobile:** Android (Java)
 - **Controllo Versione:** Git, SVN
 - **Analisi della Qualità del Software:** SonarCloud, SonarQube
